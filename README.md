@@ -14,8 +14,7 @@ For detailed user guides and advanced guides, please refer to MMRotate's [docume
 The examples of training and testing Wholly-WOOD can be found [here](configs/whollywood/README.md).
 
 ## Model Zoo
-Results and models are available in the *README.md* of each method's config directory.
-A summary can be found in the [Model Zoo](docs/en/model_zoo.md) page.
+This repository contains the Wholly-WOOD model and our series of work on weakly-supervised OOD (i.e. H2RBox, H2RBox-v2, and Point2RBox).
 
 <details open>
 <summary><b>Supported algorithms:</b></summary>
