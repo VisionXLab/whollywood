@@ -21,6 +21,9 @@ A summary can be found in the [Model Zoo](docs/en/model_zoo.md) page.
 <summary><b>Supported algorithms:</b></summary>
 
 - [x] [Wholly-WOOD](configs/whollywood/README.md)
+- [x] [H2RBox](configs/h2rbox/README.md)
+- [x] [H2RBox-v2](configs/h2rbox_v2/README.md)
+- [x] [Point2RBox](configs/point2rbox/README.md)
 
 </details>
 
