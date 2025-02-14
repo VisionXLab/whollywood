@@ -74,5 +74,11 @@ Now you can upload work_dirs/dota/Task1/Task1.zip to the DOTA-v1.0 server to eva
 | ResNet50 (1024,1024,200) | Point-to-RBox | 65.10 |   1x    | MS+RR |     2      | [whollywood-le90_r50_fpn-ms_rr_1x_dota-s1](./whollywood-le90_r50_fpn-ms_rr_1x_dota-s1.py)<br>[whollywood-le90_r50_fpn-ms_rr_1x_dota-s2](./whollywood-le90_r50_fpn-ms_rr_1x_dota-s1.py) |
 
 ## Citation
-
-Coming soon.
+```
+@article{yu2025whollywood,
+  title={Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection}, 
+  author={Yi Yu and Xue Yang and Yansheng Li and Zhenjun Han and Feipeng Da and Junchi Yan},
+  year={2025},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+}
+```
